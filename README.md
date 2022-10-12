@@ -2,7 +2,7 @@
 
 ## Coding Activity
 <center>
-    <img src="https://github-readme-stats.vercel.app/api?username=ademilsoncarvalho&show_icons=true&theme=dracula&hide=contribs,prs"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ademilsoncarvalho&show_icons=true&theme=dracula&count_private=true"/>
  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademilsoncarvalho&hide=html&layout=compact&count_private=true&hide_border=true&theme=dracula" />
 </center>
 
