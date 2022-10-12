@@ -1,13 +1,13 @@
 ### Bem Vindo !!!
 <p>
-  Meu nome é Ademilson, sou desenvolvedora um pouco mais de 5 anos, trabalho principalmente com backend e com algumas tecnologias de front. 
+  Meu nome é Ademilson, sou desenvolvedor a mais de 5 anos, trabalho principalmente com backend e com algumas tecnologias de front. 
 </p>
 <p>
     Diria que sou generalista já trabalahei com muitas linguagens,
     minha principal experiecia é com PHP, mas já atuei em projetos Java, Javascript e Python.
 </p>
 <p>
-    Conheço bastante de nuvem, principalmente AWS, já desenvolvi e projetei sistemas/micro serviçoes que rodam em containers, serverless, usando eventos, api, de tudo um pouco.
+    Tenho vasta experiencia com sistemas em nuvem, principalmente AWS, já desenvolvi e projetei sistemas e micro serviços que rodam em containers, serverless, usando eventos, api, de tudo um pouco.
 </p>
 
 - 🔭 Atualmente trabalho como desenvolvedor da Rentcars, principalmente com backend
