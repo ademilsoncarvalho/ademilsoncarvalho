@@ -7,12 +7,17 @@
     minha principal experiecia é com PHP, mas já atuei em projetos Java, Javascript e Python.
 </p>
 <p>
-    Tenho vasta experiencia com sistemas em nuvem, principalmente AWS, já desenvolvi e projetei sistemas e micro serviços que rodam em containers, serverless, usando eventos, api, de tudo um pouco.
+    Tenho vasta experiencia com sistemas em nuvem, principalmente AWS que tenho certificação.
+    Já desenvolvi e projetei sistemas e micro serviços que rodam em containers, serverless, usando eventos, api, de tudo um pouco.
 </p>
 
 - 🔭 Atualmente trabalho como desenvolvedor da Rentcars, principalmente com backend
 - 🌱 Ultimamente tenho lido muito sobre arquitetura e boas práticas de desenvolvimento 
 - :running: Na corrida para aprender inglês !!!
+
+### Certificações 
+- [Aws Developer Associate](https://www.credly.com/earner/earned/share/b66a62ca-89b9-4f39-b001-9fc079e87cc6?access_granted=false&new_connection=4e0959e9-90de-4546-a20a-8bfb944ded4b&provider=twitter&provider_id=4e0959e9-90de-4546-a20a-8bfb944ded4b)
+
 
 ### Visite meus projetos
 - [API Serverless DynamoDB](https://github.com/ademilsoncarvalho/api-node-serverless)
