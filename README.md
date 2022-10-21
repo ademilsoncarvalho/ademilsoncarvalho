@@ -3,7 +3,7 @@
   Meu nome é Ademilson, sou desenvolvedor a mais de 5 anos, trabalho principalmente com backend e com algumas tecnologias de front. 
 </p>
 <p>
-    Diria que sou generalista já trabalahei com muitas linguagens,
+    Diria que sou generalista já trabalhei com muitas linguagens,
     minha principal experiecia é com PHP, mas já atuei em projetos Java, Javascript e Python.
 </p>
 <p>
