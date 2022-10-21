@@ -16,8 +16,9 @@
 - :running: Na corrida para aprender inglês !!!
 
 ### Certificações 
-- [Aws Developer Associate](https://www.credly.com/earner/earned/share/b66a62ca-89b9-4f39-b001-9fc079e87cc6?access_granted=false&new_connection=4e0959e9-90de-4546-a20a-8bfb944ded4b&provider=twitter&provider_id=4e0959e9-90de-4546-a20a-8bfb944ded4b)
-
+<a href='https://www.credly.com/badges/b66a62ca-89b9-4f39-b001-9fc079e87cc6/public_url' target="_blank">
+<img src="./aws-certified-developer-associate.png" />
+</a>
 
 ### Visite meus projetos
 - [API Serverless DynamoDB](https://github.com/ademilsoncarvalho/api-node-serverless)
