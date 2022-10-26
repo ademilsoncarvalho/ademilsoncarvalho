@@ -11,9 +11,10 @@
     Já desenvolvi e projetei sistemas e micro serviços que rodam em containers, serverless, usando eventos, api, de tudo um pouco.
 </p>
 
-- 🔭 Atualmente trabalho como desenvolvedor da Rentcars, principalmente com backend
-- 🌱 Ultimamente tenho lido muito sobre arquitetura e boas práticas de desenvolvimento 
-- :running: Na corrida para aprender inglês !!!
+- 👨‍💻 Atualmente trabalho como desenvolvedor da Rentcars, principalmente com backend
+- 📚 Ultimamente tenho lido muito sobre arquitetura e boas práticas de desenvolvimento 
+- 🏫 Cursando pós graduação em arquitetura de software
+- 🏃‍♂️ Na corrida para aprender inglês !!!
 
 ### Certificações 
 <a href='https://www.credly.com/badges/b66a62ca-89b9-4f39-b001-9fc079e87cc6/public_url' target="_blank">
