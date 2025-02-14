@@ -1,6 +1,6 @@
 ### Bem Vindo !!!
 <p>
-  Meu nome é Ademilson, sou desenvolvedor a mais de 5 anos, trabalho principalmente com backend e com algumas tecnologias de front. 
+  Meu nome é Ademilson, sou desenvolvedor a mais de 7 anos, trabalho principalmente com backend e com algumas tecnologias de front. 
 </p>
 <p>
     Diria que sou generalista já trabalhei com muitas linguagens,
@@ -22,6 +22,8 @@
 </a>
 
 ### Visite meus projetos
+- [API Nodejs com NestJs](https://github.com/ademilsoncarvalho/cats-api)
+- [API Java com Quarkus](https://github.com/ademilsoncarvalho/quarkus-booking)
 - [API Serverless DynamoDB](https://github.com/ademilsoncarvalho/api-node-serverless)
 - [Modelo de API Python](https://github.com/ademilsoncarvalho/python_minimal_api)
 
