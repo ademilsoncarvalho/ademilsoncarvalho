@@ -11,7 +11,7 @@
     Já desenvolvi e projetei sistemas e micro serviços que rodam em containers, serverless, usando eventos, api, de tudo um pouco.
 </p>
 
-- 👨‍💻 Atualmente trabalho como desenvolvedor da Rentcars, principalmente com backend
+- 👨‍💻 Atualmente trabalho como desenvolvedor, principalmente com backend
 - 📚 Ultimamente tenho lido muito sobre arquitetura e boas práticas de desenvolvimento 
 - 🏫 Cursando pós graduação em arquitetura de software
 - 🏃‍♂️ Na corrida para aprender inglês !!!
