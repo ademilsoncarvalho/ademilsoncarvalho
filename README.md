@@ -13,7 +13,6 @@
 
 - 👨‍💻 Atualmente trabalho como desenvolvedor, principalmente com backend
 - 📚 Ultimamente tenho lido muito sobre arquitetura e boas práticas de desenvolvimento 
-- 🏫 Cursando pós graduação em arquitetura de software
 - 🏃‍♂️ Na corrida para aprender inglês !!!
 
 ### Certificações 
